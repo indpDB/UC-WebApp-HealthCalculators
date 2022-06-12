@@ -1,0 +1,46 @@
+[
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Boy.png",
+      "URL": "https://www.calculator.net/bmi-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Assamese_Girl.png",
+      "URL": "https://www.calculator.net/calorie-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Bengali_Boy.png",
+      "URL": "https://www.calculator.net/body-fat-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Bengali_Girl.png",
+      "URL": "https://www.calculator.net/bmr-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Gujarati_Boy.png",
+      "URL": "https://www.calculator.net/ideal-weight-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Gujarati_Girl.png",
+      "URL": "https://www.calculator.net/pace-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Hindu_Boy.png",
+      "URL": "https://www.calculator.net/army-body-fat-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Hindu_Girl.png",
+      "URL": "https://www.calculator.net/weight-watchers-points-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Kannada_Boy.png",
+      "URL": "https://www.calculator.net/lean-body-mass-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Kannada_Girl.png",
+      "URL": "https://www.calculator.net/healthy-weight-calculator.html"
+    },
+    {
+      "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-BabyNames/master/Malayalam_Boy.png",
+      "URL": "https://www.calculator.net/calories-burned-calculator.html"
+    }
+  ]
